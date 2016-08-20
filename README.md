@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# practicaGit
+Repositorio para la practica de git IS2
+>>>>>>> 8403f4d4eab8d327e1f1b2a887b067eb3ccf6434
